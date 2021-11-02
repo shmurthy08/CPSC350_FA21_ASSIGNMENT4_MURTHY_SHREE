@@ -16,6 +16,7 @@ README ASSIGNMENT 4
     2. GenLinkedList.cpp
     3. GenStack.h
     4. GenStack.cpp
+    5. 
 
 3) N/A Everything compiled and ran correctly
 
@@ -23,6 +24,8 @@ README ASSIGNMENT 4
    Used the following links to understand certain methods: 
         https://www.w3schools.com/cpp/cpp_files.asp 
         https://www.cplusplus.com/reference/sstream/istringstream/istringstream/
+    Used the following RPN links to help build the RPN Class:
+        https://en.wikipedia.org/wiki/Reverse_Polish_notation
 
 
 
